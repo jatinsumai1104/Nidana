@@ -1,4 +1,4 @@
-# Nidana - Detect Genetic Diseases At Early Stages
+# Nidana - Detecting Genetic Diseases At Early Stages
 Nidana is a portal used for the detection of genetic diseases using feature extraction from the face.
 
 **Major Modules**: Trained Model-Using Python on Keras (12-Layer Neural Network for Classification)

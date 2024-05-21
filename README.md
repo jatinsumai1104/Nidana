@@ -5,6 +5,7 @@ Nidana is a portal used for the detection of genetic diseases using feature extr
 
 **Web Portal**: HTML, CSS, Bootstrap, JavaScript, PHP
 
+**Publication Link**: http://sersc.org/journals/index.php/IJFGCN/article/view/17813/9021
 ## Demo of Project
 
 ### Detect Disease By Taking Image From LIVE Camera and Questionnaire
